@@ -1,0 +1,2 @@
+# Openmips
+一个基于Verilog语言的MIPS32五级流水线的cpu
